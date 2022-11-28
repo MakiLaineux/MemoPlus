@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MemoPlus</string>
+    <string name="text_show">Sehen</string>
+    <string name="code_hint">Code</string>
+</resources>

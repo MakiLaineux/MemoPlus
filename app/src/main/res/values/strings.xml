@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MemoPlus</string>
+    <string name="text_show">Show</string>
+    <string name="code_hint">code</string>
+</resources>
